@@ -34,10 +34,9 @@ options:
 Run the script from the command line, passing the path to the PDF file as an argument:
 
 ```shell
-python script_name.py path/to/your/file.pdf
+python toc.py path/to/your/file.pdf
 ```
 
-Replace `script_name.py` with the actual name of the script file and `path/to/your/file.pdf` with the path to your PDF file.
 
 ## How it Works
 
